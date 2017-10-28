@@ -1,0 +1,9 @@
+$NetBSD$
+
+SHA1 (xf86-video-intel-2017-10-27.tar.gz) = 5959b4f36cf7b9f148b71ff487d7f2036d5d6874
+RMD160 (xf86-video-intel-2017-10-27.tar.gz) = db00191f685c7aed5d293f99e357f0883f515056
+SHA512 (xf86-video-intel-2017-10-27.tar.gz) = a7d2cad847669fd8f253810ac08c5fb6e9c6527154e9e163d6c719fef1deaae112f1811cdcecd5c0ef90fbf143c2957e09793e544a8f8adfdbef6e3f5bf5e1fd
+Size (xf86-video-intel-2017-10-27.tar.gz) = 1679492 bytes
+SHA1 (patch-src_intel__list.h) = d759d417fb52e6d791a745145eeb6316e4df1f3f
+SHA1 (patch-src_sna_kgem.c) = ad8b9d9862a2b736a1ddd26d565cac3a6704b80b
+SHA1 (patch-src_sna_sna__threads.c) = 3bdd2799ecc80f999c67494b24e2a639c631586a

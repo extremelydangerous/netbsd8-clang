@@ -1,0 +1,5 @@
+@comment $NetBSD$
+@comment lib/libIntelXvMC.la
+lib/xorg/modules/drivers/intel_drv.la
+man/man4/intel.4
+@pkgdir share/examples/rc.d
